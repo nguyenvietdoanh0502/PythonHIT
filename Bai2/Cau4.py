@@ -1,0 +1,8 @@
+s = input("Nhap ten: ")
+t = int(input("Nhap tuoi: "))
+g = input("Nhap gioi tinh: ")
+h = input("Nhap tinh trang hon nhan: ")
+print("Ten: ",s)
+print("Tuoi: ",t)
+print("Gioi tinh: ",g)
+print("Tinh trang hon nhan: ",h)
